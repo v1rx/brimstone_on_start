@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Brimstone on start</name>
+    <directory>brimstart</directory>
+    <id>2837625822</id>
+    <description>Brimstone on start.</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
